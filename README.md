@@ -46,3 +46,26 @@ Curated List of the Projects I've Done from scratch or Collaborated with
  - Firebase Analytics
 
 **Link:** https://apps.apple.com/us/app/goliaz-bodyweight/id1209573588
+
+### Neymar Jr. Comics
+![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Neymar.png)
+
+**Progamming Language:** Objective-C \
+**Architecture:** VIPER \
+**Contribution:**
+ - Project Maintenance
+ - Added offline caching using local repository
+ - App v2 (still under development)
+ 
+**Stacks:**
+ - UIKit
+ - AVFoundation
+ - Alamofire
+ - Moya
+ - CoreData
+ - Kingfisher
+ - Facebook SDK
+ - Firebase Analytics
+
+**Link:** https://apps.apple.com/us/app/neymar-jr-comics/id1435104890
+
