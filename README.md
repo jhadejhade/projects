@@ -92,7 +92,7 @@ Curated List of the Projects I've Done from scratch or Collaborated with
 ### Cloudstaff Tap
 ![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Cloudstaff.png)
 
-**Progamming Language:** Swift \
+**Progamming Language:** Swift / Android Java \
 **Architecture:** MVC \
 **Contribution:**
  - Started project from scratch for version 1 only.
@@ -106,5 +106,7 @@ Curated List of the Projects I've Done from scratch or Collaborated with
  - XML
  - Realm
 
-**Link:** https://apps.apple.com/us/app/cloudstaff-tap/id1434496444
+**Links:** 
+ - https://apps.apple.com/us/app/cloudstaff-tap/id1434496444
+ - https://play.google.com/store/apps/details?id=com.cloudstaff.tap3&hl=en
 
