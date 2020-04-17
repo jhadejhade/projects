@@ -33,7 +33,7 @@ Curated List of the Projects I've Done from scratch or Collaborated with
 **Contribution:**
  - Project Maintenance
  - Added offline caching using local repository
- - 
+ - App v2 (still under development)
  
 **Stacks:**
  - UIKit
