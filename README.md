@@ -1,5 +1,5 @@
 # Projects
-Curated List of the Projects I've Done from scratch or Collaborated with
+Curated list of the projects I've done from scratch or collaborated with
 
 ### Really Social
 ![ReallySocial](https://github.com/jhadejhade/projects/blob/master/ReallySocial.png)
