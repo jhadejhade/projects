@@ -57,11 +57,13 @@ Curated List of the Projects I've Done from scratch or Collaborated with
  - Added Localizations
  - Added Facebook Login
  - Added new viewing experience on the reader
+ - Fixed custom viewing experience in iOS 13
  
 **Stacks:**
  - UIKit
  - AVFoundation
  - CoreData
+ - Crashlytics
 
 **Link:** https://apps.apple.com/us/app/neymar-jr-comics/id1435104890
 
