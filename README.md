@@ -73,7 +73,7 @@ Curated List of the Projects I've Done from scratch or Collaborated with
 ### EQPay
 ![ReallySocial](https://github.com/jhadejhade/projects/blob/master/EQPay.png)
 
-**Progamming Language:** Swift \
+**Progamming Language:** Swift / Android Java \
 **Architecture:** MVC \
 **Contribution:**
  - Engineered and started project from scratch.
