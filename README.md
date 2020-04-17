@@ -1,10 +1,10 @@
 # Projects
-Curated List of the Projects I've Done from scratch or Collaborated with
+Curated list of the projects I've done from scratch or collaborated with
 
 ### Really Social
 ![ReallySocial](https://github.com/jhadejhade/projects/blob/master/ReallySocial.png)
 
-**Progamming Language:** Swift \
+**Progamming Language:** Swift / Kotlin \
 **Architecture:** MVVM \
 **Contribution:**
  - Re-architectured from MVC to MVVM, 
@@ -23,8 +23,10 @@ Curated List of the Projects I've Done from scratch or Collaborated with
  - Kingfisher
 
 
-**Link:** https://apps.apple.com/us/app/really-social/id1076894608
-
+**Links:** 
+ - https://apps.apple.com/us/app/really-social/id1076894608
+ - https://play.google.com/store/apps/details?id=media.reallysocial.app&hl=en_AU
+ 
 ### Goliaz
 ![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Goliaz.png)
 
@@ -68,10 +70,31 @@ Curated List of the Projects I've Done from scratch or Collaborated with
 
 **Link:** https://apps.apple.com/us/app/neymar-jr-comics/id1435104890
 
+### EQPay
+![ReallySocial](https://github.com/jhadejhade/projects/blob/master/EQPay.png)
+
+**Progamming Language:** Swift / Android Java \
+**Architecture:** MVC \
+**Contribution:**
+ - Engineered and started project from scratch.
+ 
+**Stacks:**
+ - UIKit
+ - AVFoundation
+ - Alamofire
+ - Moya
+ - CoreData
+ - Kingfisher
+ - Stripe
+ - Firebase
+ - Deep Linking
+
+**Link:** Removed from the Store
+
 ### Cloudstaff Tap
 ![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Cloudstaff.png)
 
-**Progamming Language:** Swift \
+**Progamming Language:** Swift / Android Java \
 **Architecture:** MVC \
 **Contribution:**
  - Started project from scratch for version 1 only.
@@ -85,5 +108,7 @@ Curated List of the Projects I've Done from scratch or Collaborated with
  - XML
  - Realm
 
-**Link:** https://apps.apple.com/us/app/cloudstaff-tap/id1434496444
+**Links:** 
+ - https://apps.apple.com/us/app/cloudstaff-tap/id1434496444
+ - https://play.google.com/store/apps/details?id=com.cloudstaff.tap3&hl=en
 
