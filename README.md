@@ -20,3 +20,5 @@ Stacks:
  - FreshChat
  - Bugsnag
  - SwiftJson
+
+Link: https://apps.apple.com/us/app/really-social/id1076894608
