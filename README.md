@@ -68,14 +68,12 @@ Curated List of the Projects I've Done from scratch or Collaborated with
 **Link:** https://apps.apple.com/us/app/neymar-jr-comics/id1435104890
 
 ### Cloudstaff Tap
-![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Goliaz.png)
+![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Cloudstaff.png)
 
 **Progamming Language:** Swift \
 **Architecture:** MVC \
 **Contribution:**
- - Project Maintenance
- - Added offline caching using local repository
- - App v2 (still under development)
+ - Started project from scratch for version 1 only.
  
 **Stacks:**
  - UIKit
@@ -83,8 +81,7 @@ Curated List of the Projects I've Done from scratch or Collaborated with
  - Alamofire
  - Moya
  - CoreData
- - Kingfisher
- - Facebook SDK
- - Firebase Analytics
+ - XML
+ - Realm
 
 **Link:** https://apps.apple.com/us/app/cloudstaff-tap/id1434496444
