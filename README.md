@@ -20,5 +20,29 @@ Curated List of the Projects I've Done from scratch or Collaborated with
  - FreshChat
  - Bugsnag
  - SwiftJson
+ - Kingfisher
+
+
+**Link:** https://apps.apple.com/us/app/really-social/id1076894608
+
+### Goliaz
+![ReallySocial](https://github.com/jhadejhade/projects/blob/master/ReallySocial.png)
+
+**Progamming Language:** Swift \
+**Architecture:** VIPER \
+**Contribution:**
+ - Project Maintenance
+ - Added offline caching using local repository
+ - 
+ 
+**Stacks:**
+ - UIKit
+ - AVFoundation
+ - Alamofire
+ - Moya
+ - CoreData
+ - Kingfisher
+ - Facebook SDK
+ - Firebase Analytics
 
 **Link:** https://apps.apple.com/us/app/really-social/id1076894608
