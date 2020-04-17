@@ -51,21 +51,17 @@ Curated List of the Projects I've Done from scratch or Collaborated with
 ![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Neymar.png)
 
 **Progamming Language:** Objective-C \
-**Architecture:** VIPER \
+**Architecture:** MVC \
 **Contribution:**
  - Project Maintenance
- - Added offline caching using local repository
- - App v2 (still under development)
+ - Added Localizations
+ - Added Facebook Login
+ - Added new viewing experience on the reader
  
 **Stacks:**
  - UIKit
  - AVFoundation
- - Alamofire
- - Moya
  - CoreData
- - Kingfisher
- - Facebook SDK
- - Firebase Analytics
 
 **Link:** https://apps.apple.com/us/app/neymar-jr-comics/id1435104890
 
