@@ -68,6 +68,26 @@ Curated List of the Projects I've Done from scratch or Collaborated with
 
 **Link:** https://apps.apple.com/us/app/neymar-jr-comics/id1435104890
 
+### EQPay
+![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Cloudstaff.png)
+
+**Progamming Language:** Swift \
+**Architecture:** MVC \
+**Contribution:**
+ - Engineered and started project from scratch.
+ 
+**Stacks:**
+ - UIKit
+ - AVFoundation
+ - Alamofire
+ - Moya
+ - CoreData
+ - Kingfisher
+ - Stripe
+ - Firebase
+
+**Link:** Removed from the Store
+
 ### Cloudstaff Tap
 ![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Cloudstaff.png)
 
