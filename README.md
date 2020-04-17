@@ -45,4 +45,4 @@ Curated List of the Projects I've Done from scratch or Collaborated with
  - Facebook SDK
  - Firebase Analytics
 
-**Link:** https://apps.apple.com/us/app/really-social/id1076894608
+**Link:** https://apps.apple.com/us/app/goliaz-bodyweight/id1209573588
