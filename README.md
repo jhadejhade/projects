@@ -11,3 +11,12 @@ Contribution:
  - Project Maintenance
  - Added new features like takeaway orders from Facebook Chatbot, Monthly Reports, Social Media Replies
  - App Re-design
+ 
+Stacks:
+ - UIKit
+ - AVFoundation
+ - Moya
+ - Alamofire
+ - FreshChat
+ - Bugsnag
+ - SwiftJson
