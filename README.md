@@ -64,6 +64,7 @@ Curated List of the Projects I've Done from scratch or Collaborated with
  - AVFoundation
  - CoreData
  - Crashlytics
+ - Apple Pay
 
 **Link:** https://apps.apple.com/us/app/neymar-jr-comics/id1435104890
 
