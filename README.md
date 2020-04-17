@@ -26,14 +26,14 @@ Curated List of the Projects I've Done from scratch or Collaborated with
 **Link:** https://apps.apple.com/us/app/really-social/id1076894608
 
 ### Goliaz
-![ReallySocial](https://github.com/jhadejhade/projects/blob/master/ReallySocial.png)
+![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Goliaz.png)
 
 **Progamming Language:** Swift \
 **Architecture:** VIPER \
 **Contribution:**
  - Project Maintenance
  - Added offline caching using local repository
- - 
+ - App v2 (still under development)
  
 **Stacks:**
  - UIKit
