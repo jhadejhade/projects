@@ -23,8 +23,10 @@ Curated List of the Projects I've Done from scratch or Collaborated with
  - Kingfisher
 
 
-**Link:** https://apps.apple.com/us/app/really-social/id1076894608
-
+**Links:** 
+ - https://apps.apple.com/us/app/really-social/id1076894608
+ - https://play.google.com/store/apps/details?id=media.reallysocial.app&hl=en_AU
+ 
 ### Goliaz
 ![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Goliaz.png)
 
