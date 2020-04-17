@@ -69,7 +69,7 @@ Curated List of the Projects I've Done from scratch or Collaborated with
 **Link:** https://apps.apple.com/us/app/neymar-jr-comics/id1435104890
 
 ### EQPay
-![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Cloudstaff.png)
+![ReallySocial](https://github.com/jhadejhade/projects/blob/master/EQPay.png)
 
 **Progamming Language:** Swift \
 **Architecture:** MVC \
@@ -85,6 +85,7 @@ Curated List of the Projects I've Done from scratch or Collaborated with
  - Kingfisher
  - Stripe
  - Firebase
+ - Deep Linking
 
 **Link:** Removed from the Store
 
