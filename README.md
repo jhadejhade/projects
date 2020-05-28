@@ -97,7 +97,8 @@ Curated list of the projects I've done from scratch or collaborated with
 **Progamming Language:** Swift / Android Java \
 **Architecture:** MVC \
 **Contribution:**
- - Started project from scratch for version 1 only.
+ - Updated depricated APIs.
+ - Updated Swift version
  
 **Stacks:**
  - UIKit
