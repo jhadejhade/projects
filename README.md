@@ -7,7 +7,7 @@ Curated list of the projects I've done from scratch or collaborated with
 **Progamming Language:** Swift \
 **Architecture:** MVVM \
 **Contribution:**
- - Major contributor to the app's video editing feature (text, telestrator, pip etc.).
+ - Major contributor to the app's photo and video editing feature (text, telestrator, pip etc.).
  - Implemented Lucra.
  - Project Maintenance.
    
