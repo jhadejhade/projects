@@ -1,35 +1,25 @@
 # Projects
 Curated list of the projects I've done from scratch or collaborated with
 
-### Stupid Raisins
-![SR](https://github.com/jhadejhade/projects/blob/master/SR.png)
+### Bell
+![Bell](https://github.com/jhadejhade/projects/blob/master/Bell.png)
 
 **Programming Language:** Swift \
-**Architecture:** UDF (Unidirectional Data Flow) \
+**Architecture:** MVVM/MVP \
 **Contribution:**
- - Develop and maintain macOS app and Final Cut Pro extension for
-  caption/title generation.
- - Integrate local Whisper AI models for speech-to-text transcription.
- - FCPXML generation and export pipeline for Final Cut Pro.
+ - Update login to OAuth-based authentication across two consumer brands Bell and Virgin.
+ - Develop the auth layer as a reusable authentication framework shared by both brands, eliminating duplicated work.
  - Project Maintenance.
 
 **Stacks:**
  - SwiftUI
- - FxPlug (Final Cut Pro Extension)
- - SwiftUI-UDF
- - SwiftWhisper
- - AudioKit
- - Firebase
- - Amplitude
- - SDWebImage
- - KeychainAccess
- - Sparkle
- - AEXML
- - Branch
- - Combine
+ - Auth0
+ - Glassbox
+ - Lottie
+ - Twilio
 
 **Links:** 
- - https://stupidraisins.com/download/
+ - https://apps.apple.com/ca/app/mybell/id850549838
    
 ### Qantas Airways
 ![Qantas](https://github.com/jhadejhade/projects/blob/master/Qantas.png)
@@ -68,6 +58,36 @@ Curated list of the projects I've done from scratch or collaborated with
 
 **Links:** 
  - https://apps.apple.com/us/app/disney-cruise-line-navigator/id671153791
+
+### Stupid Raisins
+![SR](https://github.com/jhadejhade/projects/blob/master/SR.png)
+
+**Programming Language:** Swift \
+**Architecture:** UDF (Unidirectional Data Flow) \
+**Contribution:**
+ - Develop and maintain macOS app and Final Cut Pro extension for
+  caption/title generation.
+ - Integrate local Whisper AI models for speech-to-text transcription.
+ - FCPXML generation and export pipeline for Final Cut Pro.
+ - Project Maintenance.
+
+**Stacks:**
+ - SwiftUI
+ - FxPlug (Final Cut Pro Extension)
+ - SwiftUI-UDF
+ - SwiftWhisper
+ - AudioKit
+ - Firebase
+ - Amplitude
+ - SDWebImage
+ - KeychainAccess
+ - Sparkle
+ - AEXML
+ - Branch
+ - Combine
+
+**Links:** 
+ - https://stupidraisins.com/download/
    
 ### Serv
 ![Serv](https://github.com/jhadejhade/projects/blob/master/Serv.png)
