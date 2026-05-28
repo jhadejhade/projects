@@ -1,8 +1,35 @@
 # Projects
 Curated list of the projects I've done from scratch or collaborated with
 
+### Stupid Raisins
+![SR](https://github.com/jhadejhade/projects/blob/master/Stupid%20Raisins.png)
+
+**Programming Language:** Swift \
+**Architecture:** UDF (Unidirectional Data Flow) \
+**Contribution:**
+    - Develop and maintain macOS app and Final Cut Pro extension for
+  caption/title generation.
+    - Integrate local Whisper AI models for speech-to-text transcription.
+    - FCPXML generation and export pipeline for Final Cut Pro.
+    - Project Maintenance.
+
+**Stacks:**
+    - SwiftUI
+    - FxPlug (Final Cut Pro Extension)
+    - SwiftUI-UDF
+    - SwiftWhisper
+    - AudioKit
+    - Firebase
+    - Amplitude
+    - SDWebImage
+    - KeychainAccess
+    - Sparkle
+    - AEXML
+    - Branch
+    - Combine
+    
 ### Serv
-![PM+](https://github.com/jhadejhade/projects/blob/master/Serv.png)
+![Serv](https://github.com/jhadejhade/projects/blob/master/Serv.png)
 
 **Progamming Language:** Swift \
 **Architecture:** MVVM \
@@ -22,7 +49,7 @@ Curated list of the projects I've done from scratch or collaborated with
  - Twilio
    
 ### Takes Live Sports Chat
-![PM+](https://github.com/jhadejhade/projects/blob/master/takes.png)
+![Takes](https://github.com/jhadejhade/projects/blob/master/takes.png)
 
 **Progamming Language:** Swift \
 **Architecture:** MVVM \
