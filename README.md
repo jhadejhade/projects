@@ -7,26 +7,26 @@ Curated list of the projects I've done from scratch or collaborated with
 **Programming Language:** Swift \
 **Architecture:** UDF (Unidirectional Data Flow) \
 **Contribution:**
-    - Develop and maintain macOS app and Final Cut Pro extension for
+ - Develop and maintain macOS app and Final Cut Pro extension for
   caption/title generation.
-    - Integrate local Whisper AI models for speech-to-text transcription.
-    - FCPXML generation and export pipeline for Final Cut Pro.
-    - Project Maintenance.
+ - Integrate local Whisper AI models for speech-to-text transcription.
+ - FCPXML generation and export pipeline for Final Cut Pro.
+ - Project Maintenance.
 
 **Stacks:**
-    - SwiftUI
-    - FxPlug (Final Cut Pro Extension)
-    - SwiftUI-UDF
-    - SwiftWhisper
-    - AudioKit
-    - Firebase
-    - Amplitude
-    - SDWebImage
-    - KeychainAccess
-    - Sparkle
-    - AEXML
-    - Branch
-    - Combine
+ - SwiftUI
+ - FxPlug (Final Cut Pro Extension)
+ - SwiftUI-UDF
+ - SwiftWhisper
+ - AudioKit
+ - Firebase
+ - Amplitude
+ - SDWebImage
+ - KeychainAccess
+ - Sparkle
+ - AEXML
+ - Branch
+ - Combine
     
 ### Serv
 ![Serv](https://github.com/jhadejhade/projects/blob/master/Serv.png)
