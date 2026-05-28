@@ -2,7 +2,7 @@
 Curated list of the projects I've done from scratch or collaborated with
 
 ### Stupid Raisins
-![SR](https://github.com/jhadejhade/projects/blob/master/Stupid%20Raisins.png)
+![SR](https://github.com/jhadejhade/projects/blob/master/SR.png)
 
 **Programming Language:** Swift \
 **Architecture:** UDF (Unidirectional Data Flow) \
