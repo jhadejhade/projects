@@ -27,7 +27,49 @@ Curated list of the projects I've done from scratch or collaborated with
  - AEXML
  - Branch
  - Combine
-    
+
+**Links:** 
+ - https://stupidraisins.com/download/
+   
+### Qantas Airways
+![Qantas](https://github.com/jhadejhade/projects/blob/master/Qantas.png)
+
+**Progamming Language:** Swift \
+**Architecture:** MVVM \
+**Contribution:**
+ - Major contributor in developing the shop tab.
+ - Re-write of the MyQFF tab to server-driven SwiftUI view.
+ - Project Maintenance.
+ 
+**Stacks:**
+ - UIKit
+ - SwiftUI
+ - XCTest
+ - Nimble
+ - Github Actions
+
+**Links:** 
+ - https://apps.apple.com/nz/app/qantas-airways/id640437525
+
+### Disney Cruise Line Navigator
+![DCL](https://github.com/jhadejhade/projects/blob/master/dcl.png)
+
+**Progamming Language:** Swift \
+**Architecture:** MVVM \
+**Contribution:**
+ - Added features for the preparation of re-opening of the cruise following the pandemic guidelines (Digtal receipts, gratuities).
+ - Project Maintenance.
+ 
+**Stacks:**
+ - UIKit
+ - Lottie
+ - Jenkins
+ - XCTest
+
+
+**Links:** 
+ - https://apps.apple.com/us/app/disney-cruise-line-navigator/id671153791
+   
 ### Serv
 ![Serv](https://github.com/jhadejhade/projects/blob/master/Serv.png)
 
@@ -86,26 +128,6 @@ Curated list of the projects I've done from scratch or collaborated with
 **Links:** 
  - https://apps.apple.com/za/app/payments-manager/id1638315322
    
-### Qantas Airways
-![Qantas](https://github.com/jhadejhade/projects/blob/master/Qantas.png)
-
-**Progamming Language:** Swift \
-**Architecture:** MVVM \
-**Contribution:**
- - Major contributor in developing the shop tab.
- - Re-write of the MyQFF tab to server-driven SwiftUI view.
- - Project Maintenance.
- 
-**Stacks:**
- - UIKit
- - SwiftUI
- - XCTest
- - Nimble
- - Github Actions
-
-**Links:** 
- - https://apps.apple.com/nz/app/qantas-airways/id640437525
-   
 ### Idenprotect
 ![IDP](https://github.com/jhadejhade/projects/blob/master/idp.png)
 
@@ -125,25 +147,6 @@ Curated list of the projects I've done from scratch or collaborated with
 
 **Links:** 
  - https://apps.apple.com/us/app/idenprotect-go/id1544060692
- 
-### Disney Cruise Line Navigator
-![DCL](https://github.com/jhadejhade/projects/blob/master/dcl.png)
-
-**Progamming Language:** Swift \
-**Architecture:** MVVM \
-**Contribution:**
- - Added features for the preparation of re-opening of the cruise following the pandemic guidelines (Digtal receipts, gratuities).
- - Project Maintenance.
- 
-**Stacks:**
- - UIKit
- - Lottie
- - Jenkins
- - XCTest
-
-
-**Links:** 
- - https://apps.apple.com/us/app/disney-cruise-line-navigator/id671153791
    
 ### Oneflare
 ![Oneflare](https://github.com/jhadejhade/projects/blob/master/of.png)
